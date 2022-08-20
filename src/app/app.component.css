@@ -18,20 +18,24 @@
   width: 33%;
 }
 
-.page-content{
-  background-color: bisque;
-}
-
-table {
+.btn {
   width: 100%;
 }
 
+.page-content{
+  /* background-color: bisque; */
+}
+
+table {
+  /* width: 100%; */
+}
+
 th {
-  border: 1px solid black;
-  text-align: start;
+  /* border: 1px solid black; */
+  /* text-align: start; */
 }
 
 td {
-  border: 1px solid black;
-  text-align: center;
+  /* border: 1px solid black; */
+  /* text-align: center; */
 }
