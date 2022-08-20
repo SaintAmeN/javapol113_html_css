@@ -1,0 +1,37 @@
+.container {
+/* FF = Red, 00 = Green, AA = Blue */
+/* background-color: #ff00aa; */
+  width: 50%;
+}
+
+.page-header{
+  border: dotted 1px black;
+  display: flex;
+  flex-direction: row;
+}
+
+.header-button{
+  /* background-color: red; */
+  padding: 2px;
+  margin: 2px;
+  border: solid 1px black;
+  width: 33%;
+}
+
+.page-content{
+  background-color: bisque;
+}
+
+table {
+  width: 100%;
+}
+
+th {
+  border: 1px solid black;
+  text-align: start;
+}
+
+td {
+  border: 1px solid black;
+  text-align: center;
+}
